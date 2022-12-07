@@ -1,12 +1,11 @@
-- 🌱 Learning C++ and Web Development
-> I'm a Student and self-taught passionate developer from India
+<b> I'm a Student and self-taught passionate developer from India </b>
 🔭 I’m currently working on Web Based Projects
 
 🌱 I’m currently learning Everything 🤣
 
-👨‍💻 Vist My Portfolio itz-deepak
+👨‍💻 Vist My Portfolio __
 
-📫 You can reach me at: deepakverma.knp2019@gmail.com
+📫 You can reach me at: adityasuyashgupta@gmail.com
 
 ⚡ Fun fact Everyone is a newbie. So don't worry just keep patience and keep hustling
 <!---
