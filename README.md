@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Gupta
 - 👀 I’m interested in Web & App Dev
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning CSS & Practicing DSA
 - 📫 You can reach me at adityasuyashgupta@gmail.com
 
 <!---
