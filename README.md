@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Aditya Gupta
 - 🌱 Learning C++ and Web Development
 
 <!---
