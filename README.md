@@ -1,4 +1,4 @@
-<b> I'm a Student and self-taught passionate developer from India </b>
+<h1><b> I'm a Student and self-taught passionate developer from India </b></h1>
 
 🔭 I’m currently working on Web Based Projects
 
